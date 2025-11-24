@@ -1,0 +1,6 @@
+requests
+python-dotenv
+selenium
+webdriver-manager
+pywhatkit
+pillow
